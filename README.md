@@ -2,4 +2,4 @@
 Лабораторные работы по дисциплине "Программная инженерия"
 
 App demo:
-![Alt Text](https://drive.google.com/open?id=1CgNaGodTTccKCsSjF7JnDyC64joA9WnW)
+![Alt Text](https://a.radikal.ru/a20/2005/f9/857ca289cd9c.gif)
